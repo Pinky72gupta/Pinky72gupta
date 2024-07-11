@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Pinky72gupta
-- 👀 I’m interested in 
-- 🌱 I’m currently learning : 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  just a beginner.
 
